@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6356c9e1b21ec2981d79dd42",
+    "picture": "https://media.istockphoto.com/photos/paper-width-word-javascript-and-laptop-glasses-and-coffee-on-wooden-picture-id1272412780?s=612x612",
+    "name": "JAVASCRIPT",
+    "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+  },
+  {
+    "_id": "6356c9e17fefc41e211301c9",
+    "picture": "https://media.istockphoto.com/photos/react-inscription-against-laptop-and-code-background-picture-id1389287506?k=20&m=1389287506&s=612x612&w=0&h=6rsOAOkM-Ha7nIBiT2EeZBbXa5Rk_tvoroCQc_0blHk=",
+    "name": "REACT",
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”."
+  },
+  {
+    "_id": "6356c9e17b6fcfef44e5fa01",
+    "picture": "https://media.istockphoto.com/photos/word-angular-on-paper-and-laptop-picture-id1320639759?k=20&m=1320639759&s=612x612&w=0&h=uJLEK2Ka5PL-OncBB9ZRCyRVxQYW6dpX7hb49CVOaUI=",
+    "name": "ANGULAR",
+    "description": "With Angular, you're taking advantage of a platform that can scale from single-developer projects to enterprise-level applications. Angular is designed to make updating as straightforward as possible, so take advantage of the latest developments with minimal effort. Best of all, the Angular ecosystem consists of a diverse group of over 1.7 million developers, library authors, and content creators."
+  },
+  {
+    "_id": "6356c9e1c5df96b9ce9fce68",
+    "picture": "https://media.istockphoto.com/photos/word-css-on-wooden-desk-and-laptop-picture-id1363205770?k=20&m=1363205770&s=612x612&w=0&h=Ba20gibYDqLeo0UuqX14LNBps18NxzBmVvK0Z4f1G74=",
+    "name": "CSS",
+    "description": "(Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language."
+  },
+  {
+    "_id": "6356c9e1a529c86d841c3a37",
+    "picture": "https://media.istockphoto.com/photos/java-picture-id509849798?s=612x612",
+    "name": "JAVA",
+    "description": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+  },
+  {
+    "_id": "6356c9e1a529c86d841c3a38",
+    "picture": "https://media.istockphoto.com/photos/technical-background-php-inscription-network-internet-illustration-picture-id1420561227?k=20&m=1420561227&s=612x612&w=0&h=-LOfwmUB5rWG0PetQEuLpso-9Zw3LtsH4vfboiWZCpI=",
+    "name": "PHP",
+    "description": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs)."
+  }
+]
