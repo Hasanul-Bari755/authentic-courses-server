@@ -8,7 +8,7 @@ const courses = require('./data/courses.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('New Api running')
+    res.send('Course Api is running')
 });
 
 app.get('/courses', (req, res)=>{
